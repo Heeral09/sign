@@ -1,0 +1,44 @@
+.lineup {
+ width: 143px;
+    margin-left: 118px;
+    text-align: left;
+    float: left;
+}
+
+.lineinput {
+  width: 300px;
+  display: inline;
+  float: left;
+}
+
+.in {
+  width: 70%;
+}
+
+#box {
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 38%;
+    padding-left: 100px;
+}
+
+#date {
+  padding-left: 0px;
+}
+
+.g {
+  float: left;
+  padding-left: 13%;
+}
+
+fieldset {
+  background-color: gray;
+  color: white;
+  border: 10px solid white;  
+  margin: middle;
+}
+
+
+
+
+
